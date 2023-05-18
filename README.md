@@ -1,8 +1,7 @@
 # SQL
 
-This repository contains examples of my SQL queries. 
-
-You will find a description of the query and the SQL query inside the sql files.
+This repository contains examples of my SQL queries. <br>
+You will find descriptions and SQL queries inside the sql files.
 
 ## File 1
 
