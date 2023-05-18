@@ -1,3 +1,3 @@
 # SQL
 
-This repository provides examples of SQL queries of various complexity. 
+This repository contains examples of my SQL queries. You will find a description of the query and the SQL query inside the sql files.
