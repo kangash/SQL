@@ -4,12 +4,6 @@ select * from students;
 -- 2. Вывести только Id пользователей
 select id from students;
 
--- 4. Вывести только имя пользователей
-select name from students;
-
--- 6. Вывести имя и email пользователей
-select name, email from students;
-
  -- 7. Вывести id, имя, email и дату создания пользователей
 select id, name, email, created_on from students;
 
@@ -33,10 +27,6 @@ where name like '%8';
 select * from students
 where name like '%a%';
 
--- 13. Вывести пользователей которые были созданы 2021-07-12 00:00:00
-select * from students
-where created_on = '2021-07-12 00:00:00';
-
 -- 14. Вывести пользователей которые были созданы 2021-07-12 00:00:00 и имеют пароль 1m313
 select * from students
 where created_on = '2021-07-12 00:00:00' and password = '1m313';
@@ -52,10 +42,6 @@ where created_on = '2021-07-12 00:00:00' and name like '%8%';
 -- 17. Вывести пользователя у которых id равен 110
 select * from students
 where id = 110;
-
--- 18. Вывести пользователя у которых id равен 153
-select * from students
-where id = 153;
 
 -- 19. Вывести пользователя у которых id больше 140
 select * from students
