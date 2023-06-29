@@ -3,8 +3,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-007d7d?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-This repository contains examples of my SQL queries. <br>
-You will find descriptions and SQL queries inside the sql files.
+Here are examples of my SQL queries.
 
 ---
 
