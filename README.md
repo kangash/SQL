@@ -7,12 +7,12 @@ Here are examples of my SQL queries.
 
 ---
 
-## Task 1
+## Case 1
 
 SQL file contains queries using SELECT, WHERE, LIKE, IN, MIN, MAX, COUNT, ORDER BY.
 
 ---
 
-## Task 2
+## Case 2
 
 SQL file contains queries using SELECT, DISTINCT, WHERE, LIKE, INNER JOIN, LEFT JOIN, including JOIN multiple tables.
